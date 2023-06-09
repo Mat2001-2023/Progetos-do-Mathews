@@ -7,7 +7,7 @@
 }
 body{
     height: 100vh;
-    background: linear-gradient(130deg,#ffe53bd8,#ff2525da,#bb2beb,#2029c7,#2bd9bc);
+    background: linear-gradient(120deg,#ffe53bd8,#ff2525da,#bb2beb,#2029c7,#2bd9bc);
     display: flex;
     align-items: center;
     justify-content: center;
